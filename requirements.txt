@@ -1,0 +1,9 @@
+pandas
+numpy
+Scikit-learn
+matplotlib
+seaborn
+jupyterlab
+bs4
+requests
+lxml
